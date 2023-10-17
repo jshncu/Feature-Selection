@@ -1,4 +1,4 @@
-# MachineLearning
+# Feature Selection
 1. DLDSR (Dictionary Learning for Unsupervised Feature Selection via Dual Sparse Regression)
 
 @article{FeatureSelection_DLDSR_Wu_2023,
