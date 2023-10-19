@@ -21,7 +21,7 @@ The codes shared in this repository implements the algorithms for the models pro
   title={Multi-level correlation learning for multi-view unsupervised feature selection},
   author={Wu, Jian-Sheng and Gong, Jun-Xiao and Liu, Jing-Xin and Min, Weidong},
   journal={Knowledge-Based Systems},
-  volume={***},
+  volume={281},
   pages={111073},
   year={2023},
   doi={10.1016/j.knosys.2023.111073},
