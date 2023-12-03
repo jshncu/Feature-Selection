@@ -26,20 +26,5 @@ JAMEL (Joint adaptive manifold and embedding learning for unsupervised feature s
   doi={https://doi.org/10.1016/j.patcog.2020.107742}, 
 }
 
-<<<<<<< HEAD
-MLCL (Multi-level correlation learning for multi-view unsupervised feature selection)
-
-@article{MVFeatureSelection_MLCL_Wu_2023,
-  title={Multi-level correlation learning for multi-view unsupervised feature selection},
-  author={Wu, Jian-Sheng and Gong, Jun-Xiao and Liu, Jing-Xin and Min, Weidong},
-  journal={Knowledge-Based Systems},
-  volume={281},
-  pages={111073},
-  year={2023},
-  doi={10.1016/j.knosys.2023.111073},
-}
-
-=======
->>>>>>> fc1f7f2 (first commit)
 
 
