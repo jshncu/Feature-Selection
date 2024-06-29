@@ -16,7 +16,7 @@ DLDSR (Dictionary Learning for Unsupervised Feature Selection via Dual Sparse Re
 }
 
 JAMEL (Joint adaptive manifold and embedding learning for unsupervised feature selection) 
-@article{MVFeatureSelection_JAMEL_Wu_2021, 
+@article{FeatureSelection_JAMEL_Wu_2021, 
   title={Joint adaptive manifold and embedding learning for unsupervised feature selection}, 
   author={Wu, Jian-Sheng and Song, Meng-Xiao and Min, Weidong and Lai, Jian-Huang and Zheng, Wei-Shi}, 
   journal={Pattern Recognition}, 
