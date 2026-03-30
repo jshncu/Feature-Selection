@@ -2,6 +2,7 @@
 
 #### Introduction
 This package includes the proposed multi-view data clustering methods. The code shared in this repository implements the algorithms for the models proposed in the following papers. Welcome to use our models as the comparison methods in your papers. If you have any questions, you are welcome to send an email to me (jianshengwu@ncu.edu.cn). The source code for most of our published works is publicly available on GitHub. Should you be unable to locate the code for a specific work there, you can alternatively search for it on our Gitee repository (https://gitee.com/jshncu) or contact us via email for assistance.
+
 DLDSR (Dictionary Learning for Unsupervised Feature Selection via Dual Sparse Regression)
 
 @article{FeatureSelection_DLDSR_Wu_2023,
